@@ -1,4 +1,4 @@
-    1 # 💍 AI Ring Stone Modifier
+    1 # 💍 AI Ring Stone Modifier and also image generator 
     2
     3 <p align="center">
     4   <img src="Gemini_Generated_Image_riw6cwriw6cwriw6.png" width="350" />
@@ -6,6 +6,7 @@
     6   <img src="Gemini_Generated_Image_4ksx304ksx304ksx.png" width="350" />
     7 </p>
     8
+
     9 An automated tool that uses **Google Gemini 2.5 Flash** to transfer
       gemstone appearances onto ring models. This project allows users to
       batch-process multiple ring designs with various gemstone references to
@@ -113,3 +114,4 @@
    3
    4 This project is for demonstration purposes. Ensure you comply with Google's
      Generative AI Prohibited Use Policy.
+
